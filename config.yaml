@@ -1,5 +1,5 @@
 #### 超像素 ###
-n_clusters: 1024         # 聚类的数量
+n_clusters: 1024         # 聚类的数量（建议选取范围从256-512-1024-2048）
 batch_size: 1000
 random_state: 42
 data_dir: data/贴壁细胞样本         # 多个混合的缪勒矩阵图像和mask图的路径
