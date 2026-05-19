@@ -1,5 +1,5 @@
 # Mueller Matrix Toolkit for cell feature extraction
-无标记活细胞偏振特征提取
+基于无监督学习的活细胞动态偏振特征提取
 
 A lightweight Python toolkit for Mueller matrix decomposition and polarization parameter extraction, designed for label-free living-cell imaging.
 
