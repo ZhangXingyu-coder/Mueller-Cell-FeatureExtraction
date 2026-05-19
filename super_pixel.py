@@ -34,6 +34,6 @@ if __name__ == "__main__":
     dump(cluster, os.path.join(cfg["checkpoint_dir"], "kmeans_model.pkl"))
     dump(groups_std, os.path.join(cfg["checkpoint_dir"], "std.pkl"))
     dump(scaler, os.path.join(cfg["checkpoint_dir"], "scaler.pkl"))
-    print("聚类模型和标准化器已保存。")
+    print("聚类模型已保存。")
 
 
