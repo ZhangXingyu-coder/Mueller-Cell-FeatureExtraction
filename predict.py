@@ -8,6 +8,7 @@ import muller_utils
 import yaml
 import time
 import shutil
+import mat73
 
 def calc_roi_mask(pbp_flat, mask, labels, pft, centers, stds):
     # pbp: (N, C), mask: (H, W)
