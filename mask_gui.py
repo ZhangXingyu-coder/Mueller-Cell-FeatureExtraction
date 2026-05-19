@@ -359,7 +359,7 @@ class MaskOverlayEditor(QWidget):
         else:
             self.mask[low_i:high_i + 1, low_j:high_j + 1] = 0
 
-        # 下面的代码是原来逐个像素反转的逻辑，但效率较低
+        # 下面的代码是原来逐个像素反转的逻辑，但效率较低，因此注释掉
         # self.mask[low_i:high_i + 1, low_j
         # for i in range(low_i, high_i + 1):
         #     for j in range(low_j, high_j + 1):
