@@ -1,7 +1,7 @@
 # Mueller Matrix Toolkit for cell feature extraction
 无标记活细胞偏振特征提取
 
-A lightweight Python toolkit for Mueller matrix decomposition and polarization parameter extraction, designed for label-free biomedical imaging.
+A lightweight Python toolkit for Mueller matrix decomposition and polarization parameter extraction, designed for label-free living-cell imaging.
 
 ## ✨ Features
 - Lu-Chipman decomposition of 4x4 Mueller matrix
