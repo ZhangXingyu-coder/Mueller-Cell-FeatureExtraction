@@ -1,5 +1,19 @@
-# Mueller-SuperPixel 
-偏振特征模板计算程序
+# Mueller Matrix Toolkit for cell feature extraction
+无标记活细胞偏振特征提取
+
+A lightweight Python toolkit for Mueller matrix decomposition and polarization parameter extraction, designed for label-free biomedical imaging.
+
+## ✨ Features
+- Lu-Chipman decomposition of 4x4 Mueller matrix
+- Extraction of polarization parameters (DoP, depolarization, retardance)
+- Visualization utilities for polarization parameter maps
+- Example workflow on simulated and experimental data
+
+## 👤 Author
+[张星宇] 
+MSc student, Biomedical Engineering, Tsinghua University
+📧 xingyu-z22@mais.tsinghua.edu.cn
+
 ### 配置环境（建议使用虚拟环境）
 0. 下载代码
     ```
