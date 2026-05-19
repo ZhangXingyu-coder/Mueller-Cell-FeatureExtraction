@@ -139,7 +139,7 @@ if __name__ == "__main__":
                 data = load_mat_file(mat_path)
                 save_file(mat_path, data)
 
-    # MM = mm2mm44(MM)  # 转换为MM44格式
+    # MM = mm2mm44(MM)  # 转换为MM44
     # MMpbp = mm2pbp(MM)  # 转换为PBP
     
     # MM = mm2mm44(MM)
