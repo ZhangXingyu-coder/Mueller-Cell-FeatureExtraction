@@ -5,9 +5,9 @@ A lightweight Python toolkit for Mueller matrix decomposition and polarization p
 
 ## ✨ Features
 - Lu-Chipman decomposition of 4x4 Mueller matrix
-- Extraction of polarization parameters (DoP, depolarization, retardance)
-- Visualization utilities for polarization parameter maps
-- Example workflow on simulated and experimental data
+- Extraction of polarization parameters (DoP, depolarization, retardance) of living cells
+- Visualization utilities for cell dynamics and structural changes
+- Example workflow on experimental data of apoptotic cells
 
 ## 👤 Author
 [张星宇] 
