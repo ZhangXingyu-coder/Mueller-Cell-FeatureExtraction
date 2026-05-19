@@ -1,3 +1,4 @@
+# 定义偏振参数计算
 from scipy.ndimage import uniform_filter
 from scipy.linalg import logm
 import numpy as np
