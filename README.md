@@ -13,6 +13,9 @@ A lightweight Python toolkit for Mueller matrix decomposition and polarization p
 [张星宇] 
 MSc student, Biomedical Engineering, Tsinghua University
 📧 xingyu-z22@mais.tsinghua.edu.cn
+[魏金福](graduated)
+MSc student, Artificial Intelligence, Tsinghua University
+
 
 
 ### 🔧配置环境（建议使用虚拟环境）
