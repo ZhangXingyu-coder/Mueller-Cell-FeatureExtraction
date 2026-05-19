@@ -1,18 +1,18 @@
-# Muller-SuperPixel 
-偏特征模板计算程序
+# Mueller-SuperPixel 
+偏振特征模板计算程序
 ### 配置环境（建议使用虚拟环境）
 0. 下载代码
     ```
-    git clone https://github.com/Weijinfu/Muller-SuperPixel.git
-    cd Muller-SuperPixel
+    git clone https://github.com/ZhangXingyu-coder/Mueller-Cell-FeatureExtraction.git
+    cd Mueller-Cell-FeatureExtraction
     ```
 1. 创建虚拟环境
     ```
-    python -m venv .muller
+    python -m venv .mueller
     ```
 2. 激活环境
     ```
-    source .muller/bin/activate
+    source .mueller/bin/activate
     ```
 3. 安装依赖库
     ```
